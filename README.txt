@@ -2,7 +2,7 @@
 | DUPIN Léa                                                                   |
 | Aéro 2 classe F2                                                            |
 | Mars/Avril 2021                                                             |
-| Ma 223 - TP1 : Méthode de Choleskypour la résolution de systèmes linéaires. |
+| Ma 223 - TP2 : Méthode de Choleskypour la résolution de systèmes linéaires. |
 | Institut Polytechnique des Sciences Avancées - IPSA Paris                   | 
 |_____________________________________________________________________________|
 
